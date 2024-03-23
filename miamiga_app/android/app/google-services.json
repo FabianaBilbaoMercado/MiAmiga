@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "1024496648729",
+    "project_id": "authprueba-e040e",
+    "storage_bucket": "authprueba-e040e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024496648729:android:b535c15dd52e822abaa088",
+        "android_client_info": {
+          "package_name": "com.example.miamiga_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024496648729-g8kmi0sc5h6a7ti923jppn0qqrnepjen.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.miamiga_app",
+            "certificate_hash": "56945127f54f5522a8c19745840b43ad6405d67c"
+          }
+        },
+        {
+          "client_id": "1024496648729-ram1e4blpd2hudmddhsqvkmndp2uk6af.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_LsFy9JQkxrK5wk0tfQj_qBF4lOkiEhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024496648729-db0f2nepbnalrvabkjbtq6ir3qfo9u5b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1024496648729-15oln5ttpkksoc49g6cpuq8u64d6q9et.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.slimWeb"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024496648729:android:c2a376f7ba78eac1baa088",
+        "android_client_info": {
+          "package_name": "com.example.slim_web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024496648729-ram1e4blpd2hudmddhsqvkmndp2uk6af.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_LsFy9JQkxrK5wk0tfQj_qBF4lOkiEhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024496648729-db0f2nepbnalrvabkjbtq6ir3qfo9u5b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1024496648729-15oln5ttpkksoc49g6cpuq8u64d6q9et.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.slimWeb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
